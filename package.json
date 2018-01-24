@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/magus/react-native-facebook-login"
+    "url": "https://github.com/npinochet/react-native-facebook-login"
   },
   "keywords": [
     "react",
@@ -24,9 +24,9 @@
   "author": "Noah",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/magus/react-native-facebook-login/issues"
+    "url": "https://github.com/npinochet/react-native-facebook-login/issues"
   },
-  "homepage": "https://github.com/magus/react-native-facebook-login",
+  "homepage": "https://github.com/npinochet/react-native-facebook-login",
   "peerDependencies": {
     "react-native": ">=0.26.2",
     "react": ">=15.0.2 || ^16.0.0-0",
